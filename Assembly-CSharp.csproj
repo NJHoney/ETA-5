@@ -55,8 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Scene_Battle\Test.cs" />
+    <Compile Include="Assets\Scenes\Scene_Battle\Dragon.cs" />
+    <Compile Include="Assets\Scenes\Scene_Battle\Player1.cs" />
+    <Compile Include="Assets\Scenes\Scene_Battle\Player2.cs" />
     <Compile Include="Assets\Scenes\Scene_Title\LoadEvent.cs" />
+    <Compile Include="Assets\Script\Char_Parameter.cs" />
     <Compile Include="Assets\Script\MoveScene.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/UNITY/Mijeong/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
